@@ -1,0 +1,5 @@
+This file is designed to explain the usage of hash_map in C++
+In the newest C++ standard, hash_map is replaced by unordered_map
+To use earlier versions of hash_map, you need to include <ext/hash_map>
+and use __gnu_cxx::hash_map instead.
+The same for hash_set 
